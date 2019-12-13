@@ -7,3 +7,6 @@ Animated list provide diffrent animation and you can change it as per your reque
 1)Find _buildItem in main.dart in which you find change  SizeTransition animation with your own
 
 
+[./example/device-2019-12-13-110734.mp4]
+
+
